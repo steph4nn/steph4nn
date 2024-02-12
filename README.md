@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=130&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff71ce&height=130&section=footer"/>
