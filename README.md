@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b967ff&height=130&section=header"/>
 
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=01CDFE&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Lauro+Stephan+👋;I'm+Graduating+in+Web+Systems+Development;Console.WriteLine("Be+Welcome!+:%29"))](https://git.io/typing-svg)
 
 <!--
 **steph4nn/steph4nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
