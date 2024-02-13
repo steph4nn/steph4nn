@@ -43,5 +43,5 @@
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{steph4nn}/count.svg" /></p> 
     <br>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15046c&height=130&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3ddbf0&height=130&section=footer"/>
 
