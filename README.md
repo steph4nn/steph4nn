@@ -22,8 +22,8 @@
 
 
 <div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats-stephans-projects-a80390ea.vercel.app/api?username=steph4nn&show_icons=true&count_private=true&hide_border=true&title_color=c53fff&icon_color=c53fff&text_color=3ddbf0&bg_color=0d1117" alt="Lauro github stats" />
-<img src="https://streak-stats.demolab.com?user=steph4nn&theme=midnight-purple" alt="GitHub Streak" />
+<img width="47%" height="195px" src="https://github-readme-stats-stephans-projects-a80390ea.vercel.app/api?username=steph4nn&show_icons=true&count_private=true&hide_border=true&title_color=c53fff&icon_color=c53fff&text_color=3ddbf0&bg_color=0d1117" alt="Lauro github stats" />
+<img width="47%" height="195px" src="https://streak-stats.demolab.com?user=steph4nn&theme=midnight-purple" alt="GitHub Streak" />
 </div>
 
  <div align = "center"><img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steph4nn&layout=compact&hide_border=true&title_color=c53fff&text_color=3ddbf0&bg_color=0d1117" /></div>
