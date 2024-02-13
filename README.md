@@ -25,15 +25,19 @@
 
 <div align="center">  
     <img width="47%" height="195px" src="https://github-readme-stats-stephans-projects-a80390ea.vercel.app/api?username=steph4nn&show_icons=true&count_private=true&hide_border=true&title_color=c53fff&icon_color=c53fff&text_color=3ddbf0&bg_color=0d1117" alt="Lauro github stats" />
-    <img src="https://streak-stats.demolab.com?user=steph4nn&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+    <img  width="47%" height="195px" src="https://streak-stats.demolab.com?user=steph4nn&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
 </div>
 
  <div align = "center">
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steph4nn&layout=compact&hide_border=true&title_color=c53fff&text_color=3ddbf0&bg_color=0d1117" />
  </div>
-
-
-
+ <br>
+<div align="center"> 
+    <a href="https://www.instagram.com/_laur0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+    <a href = "mailto:laurostephan@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/lauro-stephan-b4449124b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ <br>
 <div align="center">
     <br><p align="centre"><b>Visitors Count</b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{steph4nn}/count.svg" /></p> 
